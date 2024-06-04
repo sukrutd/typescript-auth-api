@@ -14,6 +14,7 @@
         "outputPath": "dist/typescript-auth-api",
         "format": ["cjs"],
         "bundle": false,
+        "generatePackageJson": false,
         "main": "src/main.ts",
         "tsConfig": "tsconfig.app.json",
         "esbuildOptions": {
